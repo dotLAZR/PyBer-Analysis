@@ -2,16 +2,14 @@
 
 ### Overview of the analysis: 
 * Analyzing PyBer rideshare data filtering the data by type of city, (“Urban”, “Suburban”, & “Rural”) in order to determine weekly fares per each city type and be able to visualize the results.
-* 
-### Results:
-######### Figure 1
+
+### Results
 
 ![Pie Chart](./Resources/PieChart_PyBer.png)
 
 * Based on the “% of Total Fares by City type” figure above, it shows that Urban cities generate 62.7 % of total fares compared to 30.5% from Suburban cities and 6.8% from Rural cities. 
 
-
-######## Figure2
+#### % Total Fare by City Type Analysis
 
 ![Month/Month Line Chart](./Resources/PyBer_fare_summary.png)
 
